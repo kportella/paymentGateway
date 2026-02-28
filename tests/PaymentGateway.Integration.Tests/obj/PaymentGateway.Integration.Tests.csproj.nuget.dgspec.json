@@ -1,0 +1,324 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/tests/PaymentGateway.Integration.Tests/PaymentGateway.Integration.Tests.csproj": {}
+  },
+  "projects": {
+    "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Api/PaymentGateway.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Api/PaymentGateway.Api.csproj",
+        "projectName": "PaymentGateway.Api",
+        "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Api/PaymentGateway.Api.csproj",
+        "packagesPath": "/home/kaue/.nuget/packages/",
+        "outputPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Api/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaue/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Infrastructure/PaymentGateway.Infrastructure.csproj": {
+                "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Infrastructure/PaymentGateway.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.OpenApi": {
+              "target": "Package",
+              "version": "[8.0.24, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/PaymentGateway.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/PaymentGateway.Application.csproj",
+        "projectName": "PaymentGateway.Application",
+        "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/PaymentGateway.Application.csproj",
+        "packagesPath": "/home/kaue/.nuget/packages/",
+        "outputPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaue/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Domain/PaymentGateway.Domain.csproj": {
+                "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Domain/PaymentGateway.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Domain/PaymentGateway.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Domain/PaymentGateway.Domain.csproj",
+        "projectName": "PaymentGateway.Domain",
+        "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Domain/PaymentGateway.Domain.csproj",
+        "packagesPath": "/home/kaue/.nuget/packages/",
+        "outputPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaue/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Infrastructure/PaymentGateway.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Infrastructure/PaymentGateway.Infrastructure.csproj",
+        "projectName": "PaymentGateway.Infrastructure",
+        "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Infrastructure/PaymentGateway.Infrastructure.csproj",
+        "packagesPath": "/home/kaue/.nuget/packages/",
+        "outputPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Infrastructure/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaue/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/PaymentGateway.Application.csproj": {
+                "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/PaymentGateway.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/tests/PaymentGateway.Integration.Tests/PaymentGateway.Integration.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/tests/PaymentGateway.Integration.Tests/PaymentGateway.Integration.Tests.csproj",
+        "projectName": "PaymentGateway.Integration.Tests",
+        "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/tests/PaymentGateway.Integration.Tests/PaymentGateway.Integration.Tests.csproj",
+        "packagesPath": "/home/kaue/.nuget/packages/",
+        "outputPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/tests/PaymentGateway.Integration.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/kaue/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Api/PaymentGateway.Api.csproj": {
+                "projectPath": "/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Api/PaymentGateway.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.2, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.124/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
