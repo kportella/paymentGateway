@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PaymentGateway.Infrastructure/1.0.0": {
+        "dependencies": {
+          "PaymentGateway.Application": "1.0.0"
+        },
+        "runtime": {
+          "PaymentGateway.Infrastructure.dll": {}
+        }
+      },
+      "PaymentGateway.Application/1.0.0": {
+        "dependencies": {
+          "PaymentGateway.Domain": "1.0.0"
+        },
+        "runtime": {
+          "PaymentGateway.Application.dll": {}
+        }
+      },
+      "PaymentGateway.Domain/1.0.0": {
+        "runtime": {
+          "PaymentGateway.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PaymentGateway.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentGateway.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "PaymentGateway.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

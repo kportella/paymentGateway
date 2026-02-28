@@ -1,0 +1,16 @@
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/bin/Debug/net8.0/PaymentGateway.Application.deps.json
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/bin/Debug/net8.0/PaymentGateway.Application.dll
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/bin/Debug/net8.0/PaymentGateway.Application.pdb
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/bin/Debug/net8.0/PaymentGateway.Domain.dll
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/bin/Debug/net8.0/PaymentGateway.Domain.pdb
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.csproj.AssemblyReference.cache
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.AssemblyInfoInputs.cache
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.AssemblyInfo.cs
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.csproj.CoreCompileInputs.cache
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.sourcelink.json
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.csproj.CopyComplete
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.dll
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/refint/PaymentGateway.Application.dll
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/PaymentGateway.Application.pdb
+/home/kaue/Documentos/projects/paymentGatewayAPI/paymentGateway/paymentGateway/src/PaymentGateway.Application/obj/Debug/net8.0/ref/PaymentGateway.Application.dll
