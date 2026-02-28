@@ -1,0 +1,91 @@
+## .NET / ASP.NET Core
+
+# Build outputs
+bin/
+obj/
+out/
+
+# NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+*.userprefs
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+
+# VS Code
+.vscode/
+!.vscode/extensions.json
+!.vscode/settings.json
+
+# Test results & coverage
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+*.cobertura.xml
+lcov.info
+
+# Entity Framework
+*.db
+*.db-shm
+*.db-wal
+
+# Logs
+logs/
+*.log
+Seq/
+
+# User secrets
+**/appsettings.Local.json
+**/appsettings.Development.local.json
+**/secrets.json
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# Docker
+docker-compose.override.yml
+
+# Publish output
+publish/
+**/Properties/PublishProfiles/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+*~
+
+# Certificates
+*.pfx
+*.pem
+*.cer
+*.key
+
+# Postman
+*.postman_environment.json
+
+# Sensitive config
+**/appsettings.Production.json
